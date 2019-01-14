@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI.eot');
+    src: url('NirmalaUI.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI.woff2') format('woff2'),
+        url('NirmalaUI.woff') format('woff'),
+        url('NirmalaUI.ttf') format('truetype'),
+        url('NirmalaUI.svg#NirmalaUI') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI';
+    src: url('NirmalaUI-Bold.eot');
+    src: url('NirmalaUI-Bold.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI-Bold.woff2') format('woff2'),
+        url('NirmalaUI-Bold.woff') format('woff'),
+        url('NirmalaUI-Bold.ttf') format('truetype'),
+        url('NirmalaUI-Bold.svg#NirmalaUI-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Nirmala UI Semilight';
+    src: url('NirmalaUI-Semilight.eot');
+    src: url('NirmalaUI-Semilight.eot?#iefix') format('embedded-opentype'),
+        url('NirmalaUI-Semilight.woff2') format('woff2'),
+        url('NirmalaUI-Semilight.woff') format('woff'),
+        url('NirmalaUI-Semilight.ttf') format('truetype'),
+        url('NirmalaUI-Semilight.svg#NirmalaUI-Semilight') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
